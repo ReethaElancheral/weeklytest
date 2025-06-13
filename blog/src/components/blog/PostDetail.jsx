@@ -8,7 +8,7 @@ const PostDetail = ({ data }) => {
   const [deleteOpen, setDeleteOpen] = useState(false);
 
   return (
-    <div>
+    <div className="post-detail">
       <h2>{data.title}</h2>
       <p>{data.content}</p>
       <button onClick={() => setEditOpen(true)}>Edit</button>
