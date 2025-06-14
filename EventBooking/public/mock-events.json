@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Music Fiesta 2025",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
+    "date": "2025-07-20",
+    "description": "A grand celebration of live music!"
+  },
+  {
+    "id": "2",
+    "name": "React Conference",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
+    "date": "2025-08-15",
+    "description": "Join top developers in the React community."
+  },
+  {
+    "id": "3",
+    "name": "Comedy Night",
+    "image": "https://via.placeholder.com/400x250.png?text=Comedy+Night",
+    "date": "2025-09-05",
+    "description": "Laugh out loud with top comedians!"
+  }
+]
